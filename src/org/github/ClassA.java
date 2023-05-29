@@ -22,9 +22,7 @@ public class ClassA {
 		
 		ClassA a = new ClassA();
 		a.employeeAddress();
-		a.employeeID();
-		a.employeeName();
-		a.employeePhone();
+	
 	}
 
 }
